@@ -1,20 +1,34 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Gedit](https://wiki.gnome.org/Apps/Gedit)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Gedit](https://wiki.gnome.org/Apps/Gedit).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](http://i.imgur.com/paelbpq.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+ 1. Download the raw file:
+
+ ```bash
+ $ wget https://raw.githubusercontent.com/richin13/gedit/master/gedit/dracula.xml
+ ```
+
+  2. Move the file to gedit style's folder
+
+  ```bash
+  $ mv dracula.xml $HOME/.local/share/gedit/styles/
+  ```
+
+   3. Activate in Gedit's preferences dialog
+
+All instructions can be found at [draculatheme.com/gedit](https://draculatheme.com/gedit).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
+[![Ricardo Madriz](https://avatars3.githubusercontent.com/u/8370058?v=3&s=96)](https://github.com/richin13)
 --- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[Ricardo Madriz](https://github.com/richin13)
 
 ## License
 
