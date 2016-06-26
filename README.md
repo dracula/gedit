@@ -20,9 +20,6 @@
 
 3. Activate in Gedit's preferences dialog
 
-
-All instructions can be found at [draculatheme.com/gedit](https://draculatheme.com/gedit).
-
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
