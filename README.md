@@ -2,23 +2,11 @@
 
 > A dark theme for [Gedit](https://wiki.gnome.org/Apps/Gedit).
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/gedit.png)
 
 ## Install
 
-1. Download the raw file:
-
- ```bash
- $ wget https://raw.githubusercontent.com/richin13/gedit/master/gedit/dracula.xml
- ```
-
-2. Move the file to gedit style's folder
-
-  ```bash
-  $ mv dracula.xml $HOME/.local/share/gedit/styles/
-  ```
-
-3. Activate in Gedit's preferences dialog
+All instructions can be found at [draculatheme.com/gedit](https://draculatheme.com/gedit).
 
 ## Team
 
