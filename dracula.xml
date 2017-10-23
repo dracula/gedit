@@ -64,7 +64,6 @@ SOFTWARE.
 	<style name="def:boolean" foreground="purple"/>
 	<style name="def:string" foreground="yellow"/>
 	<style name="def:special-char" foreground="pink"/>
-	<style name="def:function" foreground="green"/>
 	<style name="def:builtin" foreground="cyan"/>
 	<style name="def:type" foreground="green"/>
 	<style name="def:preprocessor" foreground="green"/>
