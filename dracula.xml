@@ -54,7 +54,7 @@ SOFTWARE.
 	<style name="line-numbers" foreground="weird-gray" background="background"/>
 	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
 	<style name="search-match" foreground="selection" background="yellow"/>
-
+    <style name="background-pattern" background="current-line"/>
 
 
 	<style name="def:function" foreground="green"/>
