@@ -2,7 +2,7 @@
 
 > A dark theme for [Gedit](https://wiki.gnome.org/Apps/Gedit).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/gedit.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
