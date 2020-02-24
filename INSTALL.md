@@ -8,6 +8,6 @@
 
 2. Move the file to gedit style's folder:
 
-    $ mv dracula.xml $HOME/.local/share/gedit/styles/
+    $ sudo mv dracula.xml /usr/share/gtksourceview-3.0/styles
 
 3. Activate in Gedit's preferences dialog
