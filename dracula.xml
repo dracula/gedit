@@ -68,7 +68,7 @@ SOFTWARE.
 	<style name="def:type" foreground="green"/>
 	<style name="def:preprocessor" foreground="green"/>
 	<style name="def:comment" foreground="comment"/>
-	
+
 	<!-- Python-specific stuff -->
 	<style name="python:module-handler" foreground="pink"/>
 	<style name="python:function-name" foreground="green"/>
@@ -84,5 +84,19 @@ SOFTWARE.
 	<style background="#468410" bold="true" foreground="#f8f8f2" name="diff:added-line"/>
 	<style foreground="#8b080b" name="diff:removed-line"/>
 	<style background="#243a5f" foreground="#f8f8f2" name="diff:changed-line"/>
+
+        <!-- Markup -->
+        <style name="def:emphasis"                italic="true"/>
+        <style name="def:strong-emphasis"         foreground="purple" bold="true"/>
+        <style name="def:inline-code"             foreground="cyan"/>
+        <style name="def:insertion"               underline="single"/>
+        <style name="def:deletion"                foreground="red" strikethrough="true"/>
+        <style name="def:link-text"               foreground="orange"/>
+        <style name="def:link-symbol"             foreground="orange" bold="true"/>
+        <style name="def:link-destination"        foreground="pink" italic="true" underline="single"/>
+        <style name="def:heading"                 foreground="green" bold="true"/>
+        <style name="def:thematic-break"          foreground="green" bold="true"/>
+        <style name="def:preformatted-section"    foreground="cyan"/>
+        <style name="def:list-marker"             foreground="purple" bold="true"/>
 
 </style-scheme>
